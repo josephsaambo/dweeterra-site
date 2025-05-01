@@ -1,0 +1,2 @@
+import{a as t}from"./chunk-DW7CXBM3.mjs";function r(e,a){return{breakpoints:[{hash:"f2kz3u"}],description:t(e,a).description,elements:{},robots:"max-image-preview:large",serializationId:"framer-8zdeq",title:t(e,a).title||"Blogs",viewport:"width=1200"}}var d=1,m={exports:{metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},default:{type:"function",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{r as a,d as b,m as c};
+//# sourceMappingURL=chunk-F5ANLQQQ.mjs.map
